@@ -1,6 +1,6 @@
-import random
-from random import randint
-from colorama import Fore
+import random #To Randomly Choose Quote
+from colorama import Fore #to add color
+#Motivations
 motivation = [
     "Believe you can and you're halfway there.",
     "It always seems impossible until it's done.",
